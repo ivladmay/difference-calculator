@@ -6,7 +6,7 @@
 
 1. Запустите терминал и склонируйте репозиторий в вашу домашнюю директорию
    ```git clone https://github.com/ivladmay/difference-calculator.git```
-2. Перейдите в склонированный репозиторий ```cd difference-generator```
+2. Перейдите в склонированный репозиторий ```cd difference-calculator```
 3. Выполните команду ```make install```
 4. Выполните команду ```make link```
 
